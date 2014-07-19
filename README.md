@@ -99,6 +99,7 @@ Pull requests very welcome.
 * [CF411](http://carehart.org/cf411/) - CF411: 1,800+ Tools and Resources for CFers, (in over 150 categories) by Charlie Arehart
 * [ColdFusion Koans](https://github.com/bittersweetryan/ColdFusion-Koans) - The ColdFusion Koans are a set of unit tests that the user must make pass by filling in values
 * [CF Live](http://cflive.net) - Realtime CFML testing console
+* [CFLib](http://cflib.org/) - Common Function Library Project
 
 ## Documentation
 
