@@ -100,7 +100,7 @@ Pull requests very welcome.
 * [ColdFusion Koans](https://github.com/bittersweetryan/ColdFusion-Koans) - The ColdFusion Koans are a set of unit tests that the user must make pass by filling in values
 * [CF Live](http://cflive.net) - Realtime CFML testing console
 * [CFLib](http://cflib.org/) - Common Function Library Project
-* [TRY COLDFUSION](http://trycf.com/) - Realtime interactive learning tool for CFML
+* [Try ColdFusion](http://trycf.com/) - Realtime interactive learning tool for CFML
 
 ## Documentation
 
