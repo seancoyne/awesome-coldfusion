@@ -103,7 +103,8 @@ Pull requests very welcome.
 * [Try ColdFusion](http://trycf.com/) - Realtime interactive learning tool for CFML
 
 ## Resources
-* [CFRepo] - A repository of ColdFusion installers created by Gavin Pickin
+* [CFRepo](http://www.gpickin.com/cfrepo/) - A repository of ColdFusion installers created by Gavin Pickin
+* [Unofficial Updater](http://www.uu-2.info/) - A utility that helps install ColdFusion hotfixes
 
 ## Documentation
 
