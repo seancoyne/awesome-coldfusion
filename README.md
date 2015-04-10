@@ -102,6 +102,9 @@ Pull requests very welcome.
 * [CFLib](http://cflib.org/) - Common Function Library Project
 * [Try ColdFusion](http://trycf.com/) - Realtime interactive learning tool for CFML
 
+## Resources
+* [CFRepo] - A repository of ColdFusion installers created by Gavin Pickin
+
 ## Documentation
 
 * [Adobe ColdFusion Documentation](https://wikidocs.adobe.com/wiki/display/coldfusionen/Home) - The Official Adobe ColdFusion docs
