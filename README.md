@@ -23,7 +23,7 @@ Pull requests very welcome.
 ## Engines
 
 * [Adobe ColdFusion](http://www.adobe.com/products/coldfusion-family.html)
-* [Railo](http://www.getrailo.org/) - Free, Open Source CFML Engine
+* [Lucee](http://lucee.org/) - Free, Open Source CFML Engine, Fork of [Railo](http://www.getrailo.org/)
 
 ## Application Frameworks
 
@@ -106,6 +106,8 @@ Pull requests very welcome.
 
 * [Adobe ColdFusion Documentation](https://wikidocs.adobe.com/wiki/display/coldfusionen/Home) - The Official Adobe ColdFusion docs
 * [Railo Documentation](https://github.com/getrailo/railo/wiki) - Official Railo docs
+* [Lucee Wiki](https://bitbucket.org/lucee/lucee/wiki/Home) - Official Lucee Documentation
+* [Lucee Docs](http://www.luceedocs.org/) - Lucee Docs (Work in progress)
 * [CFDocs](http://cfdocs.org/) - UltraFast CFML Documentation Reference.
 * [CFQuickDocs](http://cfquickdocs.com/) - ColdFusion documentation
 * [CFScript Reference](https://github.com/daccfml/cfscript/blob/master/cfscript.md) -  CFScript Documentation by Adam Cameron
