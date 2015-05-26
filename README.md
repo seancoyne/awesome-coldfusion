@@ -111,6 +111,7 @@ Pull requests very welcome.
 * [Adobe ColdFusion Documentation](https://wikidocs.adobe.com/wiki/display/coldfusionen/Home) - The Official Adobe ColdFusion docs
 * [Railo Documentation](https://github.com/getrailo/railo/wiki) - Official Railo docs
 * [Lucee Wiki](https://bitbucket.org/lucee/lucee/wiki/Home) - Official Lucee Documentation
+* [Official Lucee Server Documentation](http://docs.lucee.org/) - New Lucee Documentation
 * [Lucee Docs](http://www.luceedocs.org/) - Lucee Docs (Work in progress)
 * [CFDocs](http://cfdocs.org/) - UltraFast CFML Documentation Reference.
 * [CFQuickDocs](http://cfquickdocs.com/) - ColdFusion documentation
