@@ -112,7 +112,6 @@ Pull requests very welcome.
 * [Railo Documentation](https://github.com/getrailo/railo/wiki) - Official Railo docs
 * [Lucee Wiki](https://bitbucket.org/lucee/lucee/wiki/Home) - Official Lucee Documentation
 * [Official Lucee Server Documentation](http://docs.lucee.org/) - New Lucee Documentation
-* [Lucee Docs](http://www.luceedocs.org/) - Lucee Docs (Work in progress)
 * [CFDocs](http://cfdocs.org/) - UltraFast CFML Documentation Reference.
 * [CFQuickDocs](http://cfquickdocs.com/) - ColdFusion documentation
 * [CFScript Reference](https://github.com/daccfml/cfscript/blob/master/cfscript.md) -  CFScript Documentation by Adam Cameron
