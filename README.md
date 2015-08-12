@@ -16,6 +16,7 @@ Pull requests very welcome.
 	* [Editors](#editors)
 	* [Tools](#tools)
 	* [References](#references)
+	* [Resources](#resources)
 	* [Documentation](#documentation)
 	
 ----
