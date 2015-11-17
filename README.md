@@ -84,7 +84,7 @@ Pull requests very welcome.
 * [Adobe ColdFusion Builder 3](http://www.adobe.com/products/coldfusion-builder.html) - Eclipse based ColdFusion IDE from Adobe
 * [Sublime Text ColdFusion Package](https://github.com/sublimetext/coldfusion) - ColdFusion syntax and snippets for [Sublime Text 2/3](http://www.sublimetext.com)
 * [CFEclipse](http://cfeclipse.org) - CFML Plugin for [Eclipse](http://www.eclipse.org/)
-* [CFML Language for Atom](https://github.com/atuttle/atom-language-cfml) - CFML Language plugin for [Atom](http://atom.io/)
+* [CFML Language for Atom](https://github.com/atuttle/atom-language-cfml) - CFML Language plugin for [Atom](https://atom.io/)
 * [cfbrackets](http://cfbrackets.org) - adds support for ColdFusion Markup Language (CFML) to [Brackets Code Editor](http://brackets.io/)
 * [TextMate](https://github.com/textmate/coldfusion.tmbundle) - [TextMate](http://macromates.com) support for ColdFusion
 * [IntelliJ Idea](http://www.jetbrains.com/idea/) - Java IDE, CFML Support available via [plugin](https://github.com/JetBrains/intellij-plugins/tree/master/CFML)
@@ -99,7 +99,7 @@ Pull requests very welcome.
 * [ColdFusion UI the Right Way](https://github.com/cfjedimaster/ColdFusion-UI-the-Right-Way) - A list of articles demonstrating how to do UI with ColdFusion on the back end.
 * [Learn CF in a Week](http://www.learncfinaweek.com) - community driven training program that teaches all the basics you need to be a ColdFusion Developer in one week.
 * [CF411](http://carehart.org/cf411/) - CF411: 1,800+ Tools and Resources for CFers, (in over 150 categories) by Charlie Arehart
-* [ColdFusion Koans](https://github.com/bittersweetryan/ColdFusion-Koans) - The ColdFusion Koans are a set of unit tests that the user must make pass by filling in values
+* [ColdFusion Koans](https://github.com/nodoherty/ColdFusion-Koans) - The ColdFusion Koans are a set of unit tests that the user must make pass by filling in values
 * [CF Live](http://cflive.net) - Realtime CFML testing console
 * [CFLib](http://cflib.org/) - Common Function Library Project
 * [Try ColdFusion](http://trycf.com/) - Realtime interactive learning tool for CFML
@@ -111,7 +111,7 @@ Pull requests very welcome.
 
 ## Documentation
 
-* [Adobe ColdFusion Documentation](https://wikidocs.adobe.com/wiki/display/coldfusionen/Home) - The Official Adobe ColdFusion docs
+* [Adobe ColdFusion Documentation](https://helpx.adobe.com/coldfusion/home.html) - The Official Adobe ColdFusion docs
 * [Railo Documentation](https://github.com/getrailo/railo/wiki) - Official Railo docs
 * [Lucee Wiki](https://bitbucket.org/lucee/lucee/wiki/Home) - Official Lucee Documentation
 * [Official Lucee Server Documentation](http://docs.lucee.org/) - New Lucee Documentation
