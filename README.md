@@ -41,6 +41,7 @@ Pull requests very welcome.
 * [MXUnit](https://github.com/mxunit/mxunit) - xUnit style unit testing framework
 * [mxunit-watch](https://github.com/atuttle/mxunit-watch) - watch a directory for file changes (.cfc, .cfm, .xml) to trigger mxunit test suite full run, displaying results in the console
 * [CFSelenim](https://github.com/teamcfadvance/CFSelenium) - A native Selenium RC binding for ColdFusion
+* [RocketUnit](https://github.com/rip747/RocketUnit) - small, single component testing framework
 
 ## Dependency Injection
 
@@ -73,6 +74,7 @@ Pull requests very welcome.
 * [CacheBox](http://wiki.coldbox.org/wiki/CacheBox.cfm) - The Enterprise ColdFusion Caching Engine, Aggregator and API
 * [JavaLoader](https://github.com/markmandel/JavaLoader) - JavaLoader is a library that has been built to ease the use, development and integration of Java within ColdFusion applications.
 * [Mustache.cfc](https://github.com/rip747/Mustache.cfc) - [{{ mustache }}](http://mustache.github.io) for ColdFusion
+* [Liquid](https://github.com/rip747/cfml-liquid) - [Liquid](http://liquidmarkup.org/) ported to CFML
 * [ValidateThis](http://validatethis.org) - A Validation Framework for ColdFusion Objects
 * [Hoth](https://github.com/aarongreenlee/Hoth) - Exception Tracking
 * [cfbackport](https://github.com/misterdai/cfbackport) - Back porting features contained in newer versions of ColdFusion.
