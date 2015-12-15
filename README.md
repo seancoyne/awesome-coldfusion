@@ -73,6 +73,7 @@ Pull requests very welcome.
 * [LogBox](http://wiki.coldbox.org/wiki/LogBox.cfm) - The Enterprise ColdFusion Logging Library
 * [CacheBox](http://wiki.coldbox.org/wiki/CacheBox.cfm) - The Enterprise ColdFusion Caching Engine, Aggregator and API
 * [JavaLoader](https://github.com/markmandel/JavaLoader) - JavaLoader is a library that has been built to ease the use, development and integration of Java within ColdFusion applications.
+* [Moment.cfc](https://github.com/countermarch/momentcfc) - Moment.js inspired date/time manipulation library for CFML (not a direct port)
 * [Mustache.cfc](https://github.com/rip747/Mustache.cfc) - [{{ mustache }}](http://mustache.github.io) for ColdFusion
 * [ValidateThis](http://validatethis.org) - A Validation Framework for ColdFusion Objects
 * [Hoth](https://github.com/aarongreenlee/Hoth) - Exception Tracking
