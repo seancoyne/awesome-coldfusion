@@ -40,7 +40,7 @@ Pull requests very welcome.
 * [MockBox](http://wiki.coldbox.org/wiki/MockBox.cfm) - The ColdFusion Mocking/Stubbing Framework
 * [MXUnit](https://github.com/mxunit/mxunit) - xUnit style unit testing framework
 * [mxunit-watch](https://github.com/atuttle/mxunit-watch) - watch a directory for file changes (.cfc, .cfm, .xml) to trigger mxunit test suite full run, displaying results in the console
-* [CFSelenim](https://github.com/teamcfadvance/CFSelenium) - A native Selenium RC binding for ColdFusion
+* [CFSelenium](https://github.com/teamcfadvance/CFSelenium) - A native Selenium RC binding for ColdFusion
 
 ## Dependency Injection
 
@@ -51,6 +51,7 @@ Pull requests very welcome.
 ## CMS
 
 * [FarCry CMS](https://github.com/farcrycore/plugin-farcrycms)
+* [CONTENS CMS](http://www.contens.com/) - Professional Content Management
 * [ContentBox](https://github.com/Ortus-Solutions/ContentBox) - A powerful modular content management engine
 * [Mura](https://github.com/blueriver/MuraCMS)
 * [Slatwall](https://github.com/ten24/Slatwall) - An Open Source Commerce Platform
