@@ -91,7 +91,6 @@ Pull requests very welcome.
 * [cfbrackets](http://cfbrackets.org) - adds support for ColdFusion Markup Language (CFML) to [Brackets Code Editor](http://brackets.io/)
 * [CFEclipse](http://cfeclipse.org) - CFML Plugin for [Eclipse](http://www.eclipse.org/)
 * [CFML Language for Atom](https://github.com/atuttle/atom-language-cfml) - CFML Language plugin for [Atom](https://atom.io/)
-* [Sublime Text ColdFusion Package](https://github.com/sublimetext/coldfusion) - ColdFusion syntax and snippets for [Sublime Text 2/3](http://www.sublimetext.com)
 * [CFML Package for Sublime Text 3](https://github.com/jcberquist/sublimetext-cfml) - CFML syntax highlighting as well as function and tag completions for [Sublime Text 3](http://www.sublimetext.com)
 * [TextMate](https://github.com/textmate/coldfusion.tmbundle) - [TextMate](http://macromates.com) support for ColdFusion
 
