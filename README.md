@@ -41,7 +41,6 @@ Pull requests very welcome.
 * [MXUnit](https://github.com/mxunit/mxunit) - xUnit style unit testing framework
 * [mxunit-watch](https://github.com/atuttle/mxunit-watch) - watch a directory for file changes (.cfc, .cfm, .xml) to trigger mxunit test suite full run, displaying results in the console
 * [TestBox](https://github.com/Ortus-Solutions/TestBox) - BDD style unit testing framework
-* [RocketUnit](https://github.com/robinhilliard/rocketunit) - The smallest, easiest and most approachable unit testing framework for CFML
 
 ## Dependency Injection
 
