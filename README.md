@@ -24,7 +24,7 @@ Pull requests very welcome.
 ## Engines
 
 * [Adobe ColdFusion](http://www.adobe.com/products/coldfusion-family.html)
-* [Lucee](http://lucee.org/) - Free, Open Source CFML Engine, Fork of [Railo](http://www.getrailo.org/)
+* [Lucee](http://lucee.org/) - Free, Open Source CFML Engine
 
 ## Application Frameworks
 
