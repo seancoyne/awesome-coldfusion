@@ -52,7 +52,7 @@ Pull requests very welcome.
 * [CONTENS CMS](http://www.contens.com/) - Professional Content Management
 * [ContentBox](https://github.com/Ortus-Solutions/ContentBox) - A powerful modular content management engine
 * [FarCry CMS](https://github.com/farcrycore/plugin-farcrycms)
-* [Mura](https://github.com/blueriver/MuraCMS)
+* [Mura](https://www.murasoftware.com/)
 * [Preside CMS](https://github.com/pixl8/Preside-CMS) - an open source CMS for the Railo language
 * [Slatwall](https://github.com/ten24/Slatwall) - An Open Source Commerce Platform
 
