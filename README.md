@@ -110,7 +110,7 @@ Pull requests very welcome.
 * [Try ColdFusion](http://trycf.com/) - Realtime interactive learning tool for CFML
 
 ## Resources
-* [CFRepo](http://www.gpickin.com/cfrepo/) - A repository of ColdFusion installers created by Gavin Pickin
+* [CFRepo](http://www.cfmlrepo.com/) - A repository of ColdFusion installers created by Gavin Pickin
 * [lucee5-heroku](https://github.com/mikesprague/lucee5-heroku) - Application template for deploying Lucee 5 apps to Heroku by Mike Sprague
 * [Vagrant LEMTL](https://github.com/mikesprague/vagrant-lemtl) - Vagrant box with Linux, Nginx, MariaDB (or MySQL), Tomcat, and Lucee for local development with CFML by Mike Sprague
 
