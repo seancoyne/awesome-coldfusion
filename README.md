@@ -54,7 +54,7 @@ Pull requests very welcome.
 * [FarCry CMS](https://github.com/farcrycore/plugin-farcrycms)
 * [Mura](https://www.murasoftware.com/)
 * [Preside CMS](https://github.com/pixl8/Preside-CMS) - an open source CMS for the Railo language
-* [Slatwall](https://github.com/ten24/Slatwall) - An Open Source Commerce Platform
+* [Slatwall](https://www.slatwallcommerce.com/) - An Open Source Commerce Platform
 
 ## NoSQL
 
