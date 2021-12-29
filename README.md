@@ -32,30 +32,29 @@ Pull requests very welcome.
 * [ColdBox](http://www.coldbox.org) - The Enterprise ColdFusion MVC Development Platform
 * [FarCry](http://www.farcrycore.org) - FarCry Core is a web application framework that helps CFML developers build tailor-made content solutions, fast.
 * [FW/1 - Framework One](https://github.com/framework-one/fw1) - a lightweight, convention over configuration, MVC application framework
-* [ModelGlue](http://model-glue.com) - a CFML based, full stack, front controller based on MVC. Features include Scaffolding, ORM integration, and many others
 
 ## Testing
 
 * [CFSelenium](https://github.com/teamcfadvance/CFSelenium) - A native Selenium RC binding for ColdFusion
-* [MockBox](http://wiki.coldbox.org/wiki/MockBox.cfm) - The ColdFusion Mocking/Stubbing Framework
+* [MockBox](https://testbox.ortusbooks.com/mocking/mockbox) - The ColdFusion Mocking/Stubbing Framework
 * [MXUnit](https://github.com/mxunit/mxunit) - xUnit style unit testing framework
 * [mxunit-watch](https://github.com/atuttle/mxunit-watch) - watch a directory for file changes (.cfc, .cfm, .xml) to trigger mxunit test suite full run, displaying results in the console
 * [TestBox](https://github.com/Ortus-Solutions/TestBox) - BDD style unit testing framework
 
 ## Dependency Injection
 
-* [ColdSpring](http://www.coldspringframework.org/) - ColdSpring makes the configuration and dependencies of your CFCs easier to manage. ColdSpring brings the power of the popular Spring framework for Java to ColdFusion.
+* [ColdSpring](https://github.com/coldspringframework/coldspring1) - ColdSpring makes the configuration and dependencies of your CFCs easier to manage. ColdSpring brings the power of the popular Spring framework for Java to ColdFusion.
 * [DI/1 - Inject One](https://github.com/framework-one/di1) - a very lightweight, convention over configuration, dependency injection (inversion of control) framework
-* [Wirebox](http://wiki.coldbox.org/wiki/WireBox.cfm) - The Enterprise Dependency Injection Framework
+* [Wirebox](https://wirebox.ortusbooks.com/) - The Enterprise Dependency Injection Framework
 
 ## CMS
 
 * [CONTENS CMS](http://www.contens.com/) - Professional Content Management
 * [ContentBox](https://github.com/Ortus-Solutions/ContentBox) - A powerful modular content management engine
 * [FarCry CMS](https://github.com/farcrycore/plugin-farcrycms)
-* [Mura](https://github.com/blueriver/MuraCMS)
+* [Mura](https://www.murasoftware.com/)
 * [Preside CMS](https://github.com/pixl8/Preside-CMS) - an open source CMS for the Railo language
-* [Slatwall](https://github.com/ten24/Slatwall) - An Open Source Commerce Platform
+* [Slatwall](https://www.slatwallcommerce.com/) - An Open Source Commerce Platform
 
 ## NoSQL
 
@@ -65,14 +64,14 @@ Pull requests very welcome.
 
 ## REST
 
-* [ColdBox REST](http://wiki.coldbox.org/wiki/Building_Rest_APIs.cfm) - Native REST routing and rendering capababilities
+* [ColdBox REST](https://coldbox.ortusbooks.com/digging-deeper/recipes/building-rest-apis) - Native REST routing and rendering capababilities
 * [FW/1 REST](https://github.com/framework-one/fw1/wiki/Developing-Applications-Manual#controllers-for-rest-apis) - Native REST routing and rendering capababilities
 * [Taffy](http://taffy.io) - The REST Web Service framework for ColdFusion and Railo
 * [CFWheels RESTful](https://guides.cfwheels.org/docs/routing) - CFWheels encourages a conventional RESTful and resourceful style of request handling.
 
 ## Other Libraries
 
-* [CacheBox](http://wiki.coldbox.org/wiki/CacheBox.cfm) - The Enterprise ColdFusion Caching Engine, Aggregator and API
+* [CacheBox](https://cachebox.ortusbooks.com/) - The Enterprise ColdFusion Caching Engine, Aggregator and API
 * [cfbackport](https://github.com/misterdai/cfbackport) - Back porting features contained in newer versions of ColdFusion.
 * [cfpayment](https://github.com/ghidinelli/cfpayment) - ColdFusion payment processing library makes plumbing e-commerce apps easy. Charging credit cards has never been easier. Inspired by Ruby's ActiveMerchant.
 * [Hoth](https://github.com/aarongreenlee/Hoth) - Exception Tracking
