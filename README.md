@@ -36,7 +36,7 @@ Pull requests very welcome.
 ## Testing
 
 * [CFSelenium](https://github.com/teamcfadvance/CFSelenium) - A native Selenium RC binding for ColdFusion
-* [MockBox](http://wiki.coldbox.org/wiki/MockBox.cfm) - The ColdFusion Mocking/Stubbing Framework
+* [MockBox](https://testbox.ortusbooks.com/mocking/mockbox) - The ColdFusion Mocking/Stubbing Framework
 * [MXUnit](https://github.com/mxunit/mxunit) - xUnit style unit testing framework
 * [mxunit-watch](https://github.com/atuttle/mxunit-watch) - watch a directory for file changes (.cfc, .cfm, .xml) to trigger mxunit test suite full run, displaying results in the console
 * [TestBox](https://github.com/Ortus-Solutions/TestBox) - BDD style unit testing framework
