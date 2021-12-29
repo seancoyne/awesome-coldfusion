@@ -82,7 +82,6 @@ Pull requests very welcome.
 * [Moment.cfc](https://github.com/AlumnIQ/momentcfc) - Moment.js inspired date/time manipulation library for CFML (not a direct port)
 * [Mustache.cfc](https://github.com/rip747/Mustache.cfc) - [{{ mustache }}](http://mustache.github.io) for ColdFusion
 * [UnderscoreCF](https://github.com/russplaysguitar/UnderscoreCF) - An UnderscoreJS port for Coldfusion. Functional programming library.
-* [ValidateThis](http://validatethis.org) - A Validation Framework for ColdFusion Objects
 
 ## Editors
 
