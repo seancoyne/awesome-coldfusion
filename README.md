@@ -43,7 +43,7 @@ Pull requests very welcome.
 
 ## Dependency Injection
 
-* [ColdSpring](http://www.coldspringframework.org/) - ColdSpring makes the configuration and dependencies of your CFCs easier to manage. ColdSpring brings the power of the popular Spring framework for Java to ColdFusion.
+* [ColdSpring](https://github.com/coldspringframework/coldspring1) - ColdSpring makes the configuration and dependencies of your CFCs easier to manage. ColdSpring brings the power of the popular Spring framework for Java to ColdFusion.
 * [DI/1 - Inject One](https://github.com/framework-one/di1) - a very lightweight, convention over configuration, dependency injection (inversion of control) framework
 * [Wirebox](http://wiki.coldbox.org/wiki/WireBox.cfm) - The Enterprise Dependency Injection Framework
 
