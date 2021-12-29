@@ -64,7 +64,7 @@ Pull requests very welcome.
 
 ## REST
 
-* [ColdBox REST](http://wiki.coldbox.org/wiki/Building_Rest_APIs.cfm) - Native REST routing and rendering capababilities
+* [ColdBox REST](https://coldbox.ortusbooks.com/digging-deeper/recipes/building-rest-apis) - Native REST routing and rendering capababilities
 * [FW/1 REST](https://github.com/framework-one/fw1/wiki/Developing-Applications-Manual#controllers-for-rest-apis) - Native REST routing and rendering capababilities
 * [Taffy](http://taffy.io) - The REST Web Service framework for ColdFusion and Railo
 * [CFWheels RESTful](https://guides.cfwheels.org/docs/routing) - CFWheels encourages a conventional RESTful and resourceful style of request handling.
