@@ -52,6 +52,7 @@ Pull requests very welcome.
 * [CONTENS CMS](http://www.contens.com/) - Professional Content Management
 * [ContentBox](https://github.com/Ortus-Solutions/ContentBox) - A powerful modular content management engine
 * [FarCry CMS](https://github.com/farcrycore/plugin-farcrycms)
+* [Galaxie Blog](https://github.com/GregoryAlexander77/Galaxie-Blog) - An open source blog and CMS for Adobe ColdFusion and Lucee
 * [Mura](https://www.murasoftware.com/)
 * [Preside CMS](https://github.com/pixl8/Preside-CMS) - an open source CMS for the Railo language
 * [Slatwall](https://www.slatwallcommerce.com/) - An Open Source Commerce Platform
